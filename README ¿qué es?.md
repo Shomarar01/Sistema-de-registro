@@ -15,3 +15,11 @@ Autores del proyecto.
 
 https://www.aluracursos.com/blog/como-trabajar-con-markdown
 https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+
+
+<h2>Recomendaciones para nombrar carpetas en la computadora </h2>
+El primero es: no utilices caracteres especiales como asterisco, arroba, punto de exclamación, de interrogación para nombrar los archivos.
+
+Utiliza el guión para separar los nombres y no utilices el guión bajo para hacer esto. También no utilice espacios en blancos ni barras espaciadoras entre los nombres, porque al momento de enviar tu proyecto para GitHub puedes tener dificultad y esto también puede complicarse entre los sistemas operativos.
+
+Evita también asignar nombres muy largos para tus carpetas y solo utiliza letras minúsculas, porque también los sistemas operativos hacen distinción entre letras minúsculas y mayúsculas, y puedes así evitar problemas futuros manteniendo solo de esta manera.
